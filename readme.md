@@ -1,1 +1,2 @@
-# Harvard University on edX.
+# Harvard University - CS50x
+
